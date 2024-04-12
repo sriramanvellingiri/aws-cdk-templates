@@ -3,7 +3,7 @@
 This project contains constructs, stacks and apps and used as IaaS(Infrastructure as Service)
 
 * create a S3 bucket using L1 and L2 constructs.
-* Create a SQS queue and when the file is uploaded in S3 add a notification to the SQS.
+* create a SQS queue and when the file is uploaded in S3 add a notification to the SQS Queue.
 
 ## Prerequistics
 
