@@ -35,10 +35,17 @@ The below command will generate the project with typescript.
 cdk init app --language typescript
 ```
 
-## Generate the bootstap templates in AWS Cloudformation 
+## Generate the bootstap templates in AWS S3
 
 ```
 cdk bootstrap 
+
+```
+
+## Generate the Cloud formation template from the CDK stack sets
+
+```
+cdk synth 
 
 ```
 
